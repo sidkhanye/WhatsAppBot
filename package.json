@@ -1,0 +1,20 @@
+{
+  "name": "nodenew",
+  "version": "1.0.0",
+  "description": "A WhatsApp bot using Node.js and the Puppeteer Library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "JS",
+    "Puppeteer",
+    "APIs"
+  ],
+  "author": "S. Tebogo Khanye",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.1.3"
+  }
+}
