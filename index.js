@@ -1,4 +1,4 @@
-import { launch } from 'puppeteer';
+const puppeteer = require('puppeteer');
 const msgCount = 15; 
 
 (async function main(){
